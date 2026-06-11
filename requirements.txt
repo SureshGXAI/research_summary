@@ -1,0 +1,15 @@
+# Core LangChain packages
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-groq>=0.2.0
+
+# Data analysis
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Chart generation
+matplotlib>=3.7.0
+seaborn>=0.13.0
+
+# PDF generation
+reportlab>=4.0.0
